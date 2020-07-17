@@ -1,0 +1,34 @@
+
+ 
+.array-container {
+
+    position: top;
+    left: 100px;
+  
+  }
+  
+  .array-bar {
+    
+    width: 50px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  .btn {
+    margin-top: 10px;
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+ 
+    background-color:whitesmoke; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    display: inline-block;
+   
+  }
+  
+ 
+
+  
